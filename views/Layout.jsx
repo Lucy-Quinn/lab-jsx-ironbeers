@@ -22,6 +22,7 @@ function Layout(props) {
         	to enable showing other components/views 
         	withing the Layout
         */}
+        {props.children}
 
       </body>
     </html>
